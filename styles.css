@@ -1,0 +1,10 @@
+* {
+    background-color: rgb(142, 142, 142);
+    color: pink;
+    font-size: 25px;
+}
+
+ tr, td, th{
+    border: 1px solid black;
+    padding: 1rem;
+}
